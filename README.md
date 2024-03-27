@@ -12,7 +12,7 @@ Hello! Oi! Holla! Salut! I'm thrilled to present to you my portfolio, showcasing
 ![(A) SolidWorks 3D design improved assembly of CT mechanical system proposed.(B) SolidWorks 3D design improved assembly of CT mechanical system proposed with each support at its maximum length where is verified the alignment between them.](sist_model.png)
 *(A) SolidWorks 3D design improved assembly of CT mechanical system proposed. (B) SolidWorks 3D design improved assembly of CT mechanical system proposed with each support at its maximum length where is verified the alignment between them.*
 
-![CT Mechanical System initial installation in a Mechanical Department lab at University of Aveiro with components bought to specific suppliers.](Sist_CT.png)
+![CT Mechanical System initial installation in a Mechanical Department lab at University of Aveiro with components bought to specific suppliers.](Sist_CT.jpeg)
 *CT Mechanical System initial installation in a Mechanical Department lab at University of Aveiro with components bought to specific suppliers.*
 
 
