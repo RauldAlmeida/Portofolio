@@ -29,6 +29,7 @@ Apart from that, the components designations in each file are in Portuguese. The
 - Corrediça = Sliding Table
 - Placa Base Barra Angular = Hinge of Angular Bar
 - Olhal e Eixo do Sistema Angular = Ring nut and Angular Shaft
+- Placa Aperto Casquilho Anel Suporte Inf Pino = Plate Clamp Bushing Ring Support Lower Pin
 
 ## Process Engineer at NORMA Group (~1 year)
 
