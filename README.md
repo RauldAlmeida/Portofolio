@@ -2,7 +2,7 @@
 
 Hello! Oi! Holla! Salut! I'm thrilled to present to you my portfolio, showcasing my journey and expertise in the realms of biomedical engineering (mechatronic systems development) and process engineering. Within this repository, you'll find detailed insights into three significant projects that highlight my skills and experiences:
 
-## Development of a Mechanical System for a Computed Tomography Scan
+## Development of a Mechanical System for a Computed Tomography Scan (2021)
 
 <sub> RESUME - X-ray imaging is currently essential in the daily life of many areas of health intervention (such as medicine and biomedical research). Recently, much progress has been achieved in rays-X detector functionalities and construction. These X-ray detectors are key parts of medical imaging techniques. Spectral detectors, for example, have increased the efficiency of medical images. At the University of Aveiro, the DRIM laboratory has contributed to the development of new spectral detectors. A computed tomography system is currently under development, which requires a robust and precisely aligned mechanical system to ensure good image quality. The aim of this project was to study and develop a mechanical support system for the components of the imaging system. The imaging system of CT is constituted by an X-ray tube, a gas detector, and a sample support. Each component mentioned needs to be held by a mechanical support with specific movements. The X-ray tube support must sustain 5.0 kilograms and move the tube until 10 centimeters in the y-axes and 15 centimeters in the z-axes. The detector support must sustain 10.0 kilograms and move the tube until 10 centimetres in the y-axes and 15 centimeters in the z-axes. Finally, the sample support must sustain 1.0 kilograms and move the tube until 1.0 meters in the x-axes and 15 centimeters in the z-axes. To build up such a mechanical system was taken resorted of the potentialities of SOLIDWORKS & CAD modulation. Followed by a market materials study and purchase. After getting these materials it was used the machinery available at the mechanical and physics departments of the University of Aveiro to work these materials. With these steps achieved was possible to set up, partially, the desirable mechanical system for a CT scan. </sub>
 
@@ -22,7 +22,7 @@ After achieving the SolidWorks 3D design final assembly of the CT mechanical sys
 I left the project with a new system that had way more details than it was initially expected. However, with a lot of work to do to improve and ensure the functionality of the overall system. 
 Some draws of the components should be manufactured in the University’s workshops, then set up the rest of the CT Mechanical system. The next labor is the programming of the stepper motors with the drivers purchased. All this tasks were passed to other investigators before I departed from the DRIM laboratory.
 
-## Development of an Automatic System for Behavior Analysis of Orthodontic Loops
+## Development of an Automatic System for Behavior Analysis of Orthodontic Loops (2022-2023)
 
 <sup>RESUME - Orthodontic systems, including brackets and aligners, have gained significant popularity for dental correction. Countered orthodontic loops are typically employed in these devices to optimize the treatment of misaligned teeth. A manual mechanical device was previously created to measure the force and moment generated during loop deformation in various levels of pre-activation. This creative option urges as a tryout to rectify the lack of solutions to aid orthodontic loop countering. This work aimed to improve it to an automated solution that stimulates gingival/occlusal pre-activations and stores forces and moments generated. Firstly, a CAD modeling was created for a new proposed solution. Then, materials and components were meticulously selected to achieve this, and detailed technical drawings were created to fabricate some parts using a Computer Numerical Control (CNC) machine. The new system is powered by stepper motors and uses load cells to sense force and moments of loop ends, both controlled by an Arduino-Python interface. To the purpose goal, rigorous testing and system trials assess the correlation between force and moment for each end loop activation. Moving forward, the aim is to solve friction errors, conduct more complete tests, and collaborate with the esteemed Faculty of Dental Medicine at the University of Porto to scrutinize the outcomes. This project is believed to represent a vital contribution to addressing the need for more standard, efficient, and low-cost tools for orthodontic analysis.</sup>
 
@@ -60,6 +60,6 @@ This project achieved the following milestones: study of previous mechanical sol
 This project represents a significant advancement in smart orthodontics, acting as a standard alternative tool to manual and expensive commercial solutions and serving as a solid foundation for future work and improvements.
 
 
-## Process Engineer at NORMA Group (~1 year)
+## Process Engineer at NORMA Group (2023-2024)
 
 RESUME - ver contrato em casa
