@@ -15,10 +15,12 @@ The existent CT mechanical system is presented in the figure below. It lacks a r
 ![(A) SolidWorks 3D design improved assembly of CT mechanical system proposed. (B) SolidWorks 3D design improved assembly of the CT mechanical system proposed with each support at its maximum length where the alignment between them.](sist_model.PNG)
 *(A) SolidWorks 3D design improved assembly of CT mechanical system proposed. (B) SolidWorks 3D design improved the assembly of the CT mechanical system proposed with each support at its maximum length where the alignment between them.*
 
-After achieving the SolidWorks 3D design final assembly of the CT mechanical system proposed, the majority of components were prototyped using the Mechanical Department Workshop, while the spindles and motors were bought by trustful suppliers. During my leadership, the final product looked like the following photo. 
+After achieving the SolidWorks 3D design final assembly of the CT mechanical system proposed, the majority of components were prototyped using the Mechanical Department Workshop, while the spindles and motors were bought by trustful suppliers. At the end of my leadership, the final product was incomplete because of some delays in the workshop products. 
 ![CT Mechanical System initial installation in a Mechanical Department lab at the University of Aveiro with components bought from specific suppliers.](Sist_CT.jpeg)
 *CT Mechanical System initial installation in a Mechanical Department lab at the University of Aveiro with components bought from specific suppliers.*
 
+I left the project with a new system that had way more details than it was initially expected. However, with a lot of work to do to improve and ensure the functionality of the overall system. 
+Some draws of the components should be manufactured in the University’s workshops, then set up the rest of the CT Mechanical system. The next labor is the programming of the stepper motors with the drivers purchased. All this tasks were passed to other investigators before I departed from the DRIM laboratory.
 
 ## Development of an Automatic System for Behavior Analysis of Orthodontic Loops
 
