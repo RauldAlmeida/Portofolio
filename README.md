@@ -62,4 +62,6 @@ This project represents a significant advancement in smart orthodontics, acting 
 
 ## Process Engineer at NORMA Group (2023-2024)
 
-RESUME - ver contrato em casa
+RESUME - Leader of Optical Reading Production Project; Responsible for Standardization of Packaging across Processes; Continuous Improvement Activities: 5S; Gemba Walk; Performance Routines; Kaizen Events and Factory Mapping; Responsible for production material control.
+
+* Due to professional confidentiality, I will not be publishing any photos of the work undertaken. However, I am available to discuss any inquiries you may have. Please feel free to reach out.*
