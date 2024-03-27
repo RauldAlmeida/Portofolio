@@ -12,11 +12,9 @@ Hello! Oi! Holla! Salut! I'm thrilled to present to you my portfolio, showcasing
 
 Once all the system components are collected, they are assembled based on the latest SolidWork modeling. The resulting product is shown and described in Figure below.
 
-![Lateral and top views of final assembly designed, which function is imposing vertical and
-horizontal activations in α along gingival plane and tips activations along occlusal pane in β end loop.](sis_total_total.png)
+![Lateral and top views of final assembly designed, which function is imposing vertical and horizontal activations in α along gingival plane and tips activations along occlusal pane in β end loop.](sis_total_total.png)
 
-![Experimental assembly of mechanical parts; A. final mechanical assembly and its principal
-components identification; B. T-loop ends identification; C. system top view.](sistema_robot.png)
+![Experimental assembly of mechanical parts; A. final mechanical assembly and its principal components identification; B. T-loop ends identification; C. system top view.](sistema_robot.png)
 
 
 ### A - Arduino Code
